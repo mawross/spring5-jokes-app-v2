@@ -1,6 +1,6 @@
 package guru.springframework.spring5jokesappv2.services;
 
-public interface interface JokeService {
+public interface public interface JokeService {
 
     String getJoke();
 }
